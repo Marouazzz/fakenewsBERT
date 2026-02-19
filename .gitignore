@@ -1,0 +1,15 @@
+# Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data/Outputs lourds
+*.csv
+*.pt
+outputs/
+data/
+
+# Env
+venv/
+.env
