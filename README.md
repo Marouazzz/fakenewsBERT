@@ -26,6 +26,3 @@ Run `FakeNewDetection.ipynb` in Jupyter.
 
 Model weights: `c2newmodelweights.pt`
 
-## Limitations
-- Trained on headlines only (2015-2017 US news)
-- Limited hyperparameter tuning
